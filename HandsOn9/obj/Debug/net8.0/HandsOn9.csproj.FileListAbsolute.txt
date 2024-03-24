@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\HandsOn9\HandsOn9\bin\Debug\net8.0\HandsOn9.exe
+C:\Users\Daniel\Desktop\HandsOn9\HandsOn9\bin\Debug\net8.0\HandsOn9.deps.json
+C:\Users\Daniel\Desktop\HandsOn9\HandsOn9\bin\Debug\net8.0\HandsOn9.runtimeconfig.json
+C:\Users\Daniel\Desktop\HandsOn9\HandsOn9\bin\Debug\net8.0\HandsOn9.dll
+C:\Users\Daniel\Desktop\HandsOn9\HandsOn9\bin\Debug\net8.0\HandsOn9.pdb
+C:\Users\Daniel\Desktop\HandsOn9\HandsOn9\obj\Debug\net8.0\HandsOn9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\HandsOn9\HandsOn9\obj\Debug\net8.0\HandsOn9.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\HandsOn9\HandsOn9\obj\Debug\net8.0\HandsOn9.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\HandsOn9\HandsOn9\obj\Debug\net8.0\HandsOn9.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\HandsOn9\HandsOn9\obj\Debug\net8.0\HandsOn9.dll
+C:\Users\Daniel\Desktop\HandsOn9\HandsOn9\obj\Debug\net8.0\refint\HandsOn9.dll
+C:\Users\Daniel\Desktop\HandsOn9\HandsOn9\obj\Debug\net8.0\HandsOn9.pdb
+C:\Users\Daniel\Desktop\HandsOn9\HandsOn9\obj\Debug\net8.0\HandsOn9.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\HandsOn9\HandsOn9\obj\Debug\net8.0\ref\HandsOn9.dll
